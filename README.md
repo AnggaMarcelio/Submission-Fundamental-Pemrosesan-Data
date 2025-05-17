@@ -1,5 +1,5 @@
 # Submission-Fundamental-Pemrosesan-Data
-Proyek ini merupakan salah satu tugas pada kelas Fundamental Pemrosesan Data di Dicoding. Dalam proyek ini dilakukan proses ETL (Extract, Transform, Load) untuk mengumpulkan dan mengolah data produk fashion dari situs [Fashion Studio Dicoding](https://fashion-studio.dicoding.dev/).
+Proyek ini merupakan proyek akhir pada kelas Fundamental Pemrosesan Data di Dicoding. Dalam proyek ini dilakukan proses ETL (Extract, Transform, Load) untuk mengumpulkan dan mengolah data produk fashion dari situs [Fashion Studio Dicoding](https://fashion-studio.dicoding.dev/).
 
 ## Struktur Proyek
 
