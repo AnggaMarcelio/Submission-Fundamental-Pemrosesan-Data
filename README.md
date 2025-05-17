@@ -5,14 +5,14 @@
 ```
 .
 ├── main.py
-├── utils/
-│   ├── extract.py
-│   ├── transform.py
-│   └── load.py
 ├── tests/
 │   ├── test_extract.py
 │   ├── test_transform.py
 │   └── test_load.py
+├── utils/
+│   ├── extract.py
+│   ├── transform.py
+│   └── load.py
 ├── products.csv
 ├── google-sheets-api.json
 └── README.md
